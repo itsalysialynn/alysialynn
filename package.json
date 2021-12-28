@@ -4,6 +4,7 @@
   "private": true,
   "description": "Alysia Lynn",
   "author": "itsalysialynn",
+  "packageManager": "yarn@3.1.1",
   "keywords": [
     "gatsby"
   ],
