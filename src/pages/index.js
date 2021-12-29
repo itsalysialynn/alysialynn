@@ -1,12 +1,13 @@
 import React from "react";
+import PageWrapper from "../components/PageWrapper";
 
 const IndexPage = () => {
   return (
-    <>
-      <header>Alysia Lynn</header>
-      <main>Under Construction</main>
-      <footer>www.alysialynn.com</footer>
-    </>
+    <PageWrapper title="Home | Alysia Lynn">
+      <section>
+        <h1>Home Page</h1>
+      </section>
+    </PageWrapper>
   );
 };
 
